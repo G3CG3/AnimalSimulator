@@ -25,8 +25,6 @@ The `AnimalSimulator` main class creates instances of each animal and calls thei
 
 ## Sample Output
 
----
-
 Animal: Rex is a Dog
 Rex says: Woof!
 Rex runs around happily.
@@ -45,6 +43,8 @@ Animal: Tweety is a Bird
 Tweety says: Tweet!
 Tweety flies in the sky.
 Tweety pecks at seeds.
+
+---
 
 ## Concepts Demonstrated
 
