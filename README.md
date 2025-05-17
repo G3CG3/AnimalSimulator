@@ -26,16 +26,21 @@ The `AnimalSimulator` main class creates instances of each animal and calls thei
 ## Sample Output
 
 ---
+
 Animal: Rex is a Dog
 Rex says: Woof!
 Rex runs around happily.
 Rex eats dog food.
+
 ---
+
 Animal: Whiskers is a Cat
 Whiskers says: Meow!
 Whiskers stalks silently.
 Whiskers eats cat food.
+
 ---
+
 Animal: Tweety is a Bird
 Tweety says: Tweet!
 Tweety flies in the sky.
