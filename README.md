@@ -17,11 +17,15 @@ Each subclass provides its own implementation of the behaviors:
 
 The `AnimalSimulator` main class creates instances of each animal and calls their methods, demonstrating polymorphism.
 
+---
+
 ## How to Run
 
 1. Compile the project in your IDE (e.g., IntelliJ).
 2. Run the `AnimalSimulator` class.
 3. Observe the console output showing different behaviors for each animal.
+
+---
 
 ## Sample Output
 
