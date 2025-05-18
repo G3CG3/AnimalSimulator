@@ -34,21 +34,21 @@ Rex says: Woof! <br>
 Rex runs around happily. <br>
 Rex eats dog food.
 
----
+--
 
 Animal: Whiskers is a Cat <br>
 Whiskers says: Meow! <br>
 Whiskers stalks silently. <br>
 Whiskers eats cat food.
 
----
+--
 
 Animal: Tweety is a Bird <br>
 Tweety says: Tweet! <br>
 Tweety flies in the sky. <br>
 Tweety pecks at seeds.
 
----
+--
 
 ## Concepts Demonstrated
 
